@@ -1,8 +1,8 @@
 {
-  "name": "babel-plugin-ramda",
-  "version": "1.0.0",
+  "name": "babel-plugin-ramda-all",
+  "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "rm -rf lib && babel src --out-dir lib",
     "test": "echo \"Error: no test specified\" && exit 1"
